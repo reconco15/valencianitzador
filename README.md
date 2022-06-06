@@ -14,3 +14,6 @@ Se-n's obrira una altra finestra, ací clickem arxiu -> importar BASIC
 Cerquem l'arxiu valencianitzador.bat i el seleccionem
 
 Ja la tenim, ara tan sols hem de clicar en qualsevol lloc dins de sub Main i clickem executar o prenem f5 perque funcione.
+
+
+Realitzat per Héctor Navarro Isaac com a part del TFG.
