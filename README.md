@@ -1,7 +1,7 @@
 # valencianitzador
 Valencianitzador de textos en català oriental fet a partir d'expressions regulars en BASIC com a macro de LibreOffice
 
-Per instalar-lo s'ha de baixar la suit de LibreOffice (https://ca.libreoffice.org/) i descarregar el fitxer valencianitzador.bas
+Per instal·lar-lo s'ha de baixar la suit de LibreOffice (https://ca.libreoffice.org/) i descarregar el fitxer valencianitzador.bas
 
 Una vegada hem fet aquestes dues coses, obrim el LibreOffice i clickem en Eines -> organitzar macros -> BASIC
 
